@@ -71,5 +71,5 @@
  C:\HybirdProject(폴더명)\platforms\android 선택하고 설정 다운로드 다 될때 까지 기다리기
  
  ## 완성본
-![완성본](![cordova](https://user-images.githubusercontent.com/83578295/207139215-52362ac1-1bce-44bc-8808-468e4af72474.png)
-)
+![cordova](https://user-images.githubusercontent.com/83578295/207139682-ce496689-0102-4100-9749-29ae159f8d56.png)
+
